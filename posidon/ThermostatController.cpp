@@ -35,5 +35,3 @@ void controlThermostat() {
   
   displayTemperature(currentTemperature);
 }
-
-

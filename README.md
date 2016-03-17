@@ -7,6 +7,7 @@ Funcionalidades implementadas
 ------
 
  - Termostato com ativação de chiller e aquecedor
+ - Relógio
 
 
 Funcionalidades não implementadas

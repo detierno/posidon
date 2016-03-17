@@ -6,4 +6,3 @@
   void controlThermostat(void);
    
 #endif
-
